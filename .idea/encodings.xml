@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/adres_book.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/django_movie/django_movie/__init__.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/django_movie/django_movie/asgi.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/django_movie/django_movie/settings.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/django_movie/django_movie/urls.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/django_movie/django_movie/wsgi.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/django_movie/manage.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/django_movie/movies/__init__.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/django_movie/movies/admin.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/django_movie/movies/apps.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/django_movie/movies/migrations/__init__.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/django_movie/movies/models.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/django_movie/movies/tests.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/django_movie/movies/urls.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/django_movie/movies/views.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mainapp.kv" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mydatabase.db" charset="UTF-16" />
+    <file url="file://$PROJECT_DIR$/shifu6.py" charset="UTF-8" />
+    <file url="PROJECT" charset="windows-1251" />
+  </component>
+</project>
